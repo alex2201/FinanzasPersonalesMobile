@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "B:\\Development\\WebstormProjects\\finanzas_personales_mobile\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Alexander\\.gradle\\caches\\transforms-2\\files-2.1\\66177e4e7d3c6b815445b840e71f026f\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

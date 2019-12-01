@@ -1,0 +1,4 @@
+#Sun Nov 10 01:09:51 CST 2019
+base.0=B\:\\Development\\WebstormProjects\\finanzas_personales_mobile\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

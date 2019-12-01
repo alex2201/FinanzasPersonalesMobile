@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "B:\\Development\\WebstormProjects\\finanzas_personales_mobile\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Alexander\\.gradle\\caches\\transforms-2\\files-2.1\\66177e4e7d3c6b815445b840e71f026f\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
