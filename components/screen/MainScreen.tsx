@@ -50,7 +50,7 @@ class MainScreen extends Component<{ navigation: any }> {
             } else {
                 alert('Error al cargar la aplicación :(');
             }
-        }, 3000);
+        }, 2000);
     }
 
     async getUserData(token: string) {
